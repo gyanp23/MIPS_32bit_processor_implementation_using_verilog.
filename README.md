@@ -1,1 +1,1 @@
-# MIPS_32bit_processor_implementation_using_verilog.
+# Implementation-of-MIPS-32-bit-processor-using-Verilog
