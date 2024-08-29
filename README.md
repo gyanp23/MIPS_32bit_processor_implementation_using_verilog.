@@ -1,1 +1,0 @@
-# MIPS_32bit_processor_implementation_using_verilog.
